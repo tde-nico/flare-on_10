@@ -1,0 +1,3 @@
+42 in the game   ||   strings -e b X.exe | grep @flare
+
+glorified_captcha@flare-on.com
